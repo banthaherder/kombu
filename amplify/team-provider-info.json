@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-kombu-dev-212743-authRole",
+      "UnauthRoleArn": "arn:aws:iam::570942073824:role/amplify-kombu-dev-212743-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::570942073824:role/amplify-kombu-dev-212743-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-kombu-dev-212743-deployment",
+      "UnauthRoleName": "amplify-kombu-dev-212743-unauthRole",
+      "StackName": "amplify-kombu-dev-212743",
+      "StackId": "arn:aws:cloudformation:us-west-2:570942073824:stack/amplify-kombu-dev-212743/1dcf53f0-2fa8-11eb-9c1b-06b95fe2dfef",
+      "AmplifyAppId": "d2ap6dd270rycw"
+    }
+  }
+}

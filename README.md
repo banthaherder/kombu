@@ -1,4 +1,5 @@
 # kombu
+A kombucha brewing management platform for organizing, tracking, and recording brews. It is built on AWS Amplify and Vue.
 
 ## Project setup
 ```
